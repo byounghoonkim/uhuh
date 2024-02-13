@@ -1,11 +1,11 @@
 [package]
 name = "uhuh"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "A Library for building interfactive forms and prompts in the terminal"
-homepage = "https://github.com/byounghoon-kim/uhuh"
-repository = "https://github.com/byounghoon-kim/uhuh"
+homepage = "https://github.com/byounghoonkim/uhuh"
+repository = "https://github.com/byounghoonkim/uhuh"
 readme = "README.md"
 keywords = ["terminal", "tui", "huh", "uhuh"]
 categories = ["command-line-utilities", "command-line-interface"]
